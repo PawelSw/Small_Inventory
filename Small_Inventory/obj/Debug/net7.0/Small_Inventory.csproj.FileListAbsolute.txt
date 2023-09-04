@@ -1,0 +1,30 @@
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.exe
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.deps.json
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.runtimeconfig.json
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.dll
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.pdb
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.csproj.AssemblyReference.cache
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.AssemblyInfoInputs.cache
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.AssemblyInfo.cs
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.csproj.CoreCompileInputs.cache
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.dll
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\refint\Small_Inventory.dll
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.pdb
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.genruntimeconfig.cache
+E:\c#\c#\Moje proby\Small_Inventory\Small_Inventory\obj\Debug\net7.0\ref\Small_Inventory.dll
+E:\c#\Github\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.exe
+E:\c#\Github\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.deps.json
+E:\c#\Github\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.runtimeconfig.json
+E:\c#\Github\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.dll
+E:\c#\Github\Small_Inventory\Small_Inventory\bin\Debug\net7.0\Small_Inventory.pdb
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.csproj.AssemblyReference.cache
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.AssemblyInfoInputs.cache
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.AssemblyInfo.cs
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.csproj.CoreCompileInputs.cache
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.dll
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\refint\Small_Inventory.dll
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.pdb
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\Small_Inventory.genruntimeconfig.cache
+E:\c#\Github\Small_Inventory\Small_Inventory\obj\Debug\net7.0\ref\Small_Inventory.dll
